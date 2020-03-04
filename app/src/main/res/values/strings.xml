@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aktywności</string>
+    <string name="send">Wyślij wiadomość</string>
+    <string name="hint">Wpisz wiadomość</string>
+    <string name="title_activity_just_activity">just_activity</string>
+    <string name="activity">Następna aktywność</string>
+    <string name="textActivity">WITAJ NA NASTĘPNEJ AKTYWNOŚCI</string>
+    <string name="buttonNewActivity">Aktywność 1</string>
+
+</resources>
